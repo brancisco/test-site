@@ -1,5 +1,5 @@
 <template>
-    <div><h2>Bar</h2></div>
+    <div><h2>You're now a Bar.</h2></div>
 </template>
 
 <script>
